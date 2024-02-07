@@ -1,3 +1,4 @@
+#ДАННЫЙ КОД НЕ ИСПОЛЬЗУЕТСЯ В ТЕСТАХ. ДАННЫЙ КОД БЫЛ ПЕРЕНЕСЕН WORK_PAGE
 import time
 from selenium.webdriver.common.by import By
 from pages.All_methods import AllMethods

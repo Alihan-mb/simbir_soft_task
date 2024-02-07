@@ -1,0 +1,1 @@
+[32mINFO    [0m test_transactions:test_deposit_withdraw.py:59 there are 2 transactions

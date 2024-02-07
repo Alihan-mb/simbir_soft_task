@@ -1,0 +1,2 @@
+[32mINFO    [0m test_csv:test_deposit_withdraw.py:74 ['Feb', '7,', '2024', '5:11:19', 'PM', '13', 'Credit']
+[32mINFO    [0m test_csv:test_deposit_withdraw.py:74 ['Feb', '7,', '2024', '5:11:21', 'PM', '13', 'Debit']

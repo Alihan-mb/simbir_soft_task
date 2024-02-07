@@ -1,0 +1,72 @@
+2024-02-07 13:36:17,773 :INFO : test_withdrawing :Transaction successful
+2024-02-07 13:36:19,400 :INFO : test_transactions :there are 2 transactions
+2024-02-07 13:36:19,436 :INFO : test_csv :['Feb 7, 2024 1:36:16 PM 13 Credit']
+2024-02-07 13:36:19,436 :INFO : test_csv :['Feb', '7,', '2024', '1:36:16', 'PM', '13', 'Credit']
+2024-02-07 13:36:19,436 :INFO : test_csv :['Feb 7, 2024 1:36:17 PM 13 Debit']
+2024-02-07 13:36:19,436 :INFO : test_csv :['Feb', '7,', '2024', '1:36:17', 'PM', '13', 'Debit']
+2024-02-07 13:47:09,546 :INFO : test_withdrawing :Transaction successful
+2024-02-07 13:47:11,168 :INFO : test_transactions :there are 2 transactions
+2024-02-07 13:47:11,211 :INFO : test_csv :['Feb 7, 2024 1:47:08 PM 13 Credit']
+2024-02-07 13:47:11,211 :INFO : test_csv :['Feb', '7,', '2024', '1:47:08', 'PM', '13', 'Credit']
+2024-02-07 13:47:11,212 :INFO : test_csv :['Feb 7, 2024 1:47:09 PM 13 Debit']
+2024-02-07 13:47:11,212 :INFO : test_csv :['Feb', '7,', '2024', '1:47:09', 'PM', '13', 'Debit']
+2024-02-07 13:49:09,899 :INFO : test_withdrawing :Transaction successful
+2024-02-07 13:49:11,517 :INFO : test_transactions :there are 2 transactions
+2024-02-07 13:49:11,572 :INFO : test_csv :['Feb 7, 2024 1:49:08 PM 13 Credit']
+2024-02-07 13:49:11,572 :INFO : test_csv :['Feb', '7,', '2024', '1:49:08', 'PM', '13', 'Credit']
+2024-02-07 13:49:11,573 :INFO : test_csv :['Feb 7, 2024 1:49:09 PM 13 Debit']
+2024-02-07 13:49:11,573 :INFO : test_csv :['Feb', '7,', '2024', '1:49:09', 'PM', '13', 'Debit']
+2024-02-07 13:51:27,087 :INFO : test_withdrawing :Transaction successful
+2024-02-07 13:51:28,718 :INFO : test_transactions :there are 2 transactions
+2024-02-07 13:51:28,764 :INFO : test_csv :['Feb 7, 2024 1:51:25 PM 13 Credit']
+2024-02-07 13:51:28,764 :INFO : test_csv :['Feb', '7,', '2024', '1:51:25', 'PM', '13', 'Credit']
+2024-02-07 13:51:28,764 :INFO : test_csv :['Feb 7, 2024 1:51:27 PM 13 Debit']
+2024-02-07 13:51:28,764 :INFO : test_csv :['Feb', '7,', '2024', '1:51:27', 'PM', '13', 'Debit']
+2024-02-07 13:55:06,398 :INFO : test_withdrawing :Transaction successful
+2024-02-07 13:55:08,050 :INFO : test_transactions :there are 2 transactions
+2024-02-07 13:55:08,079 :INFO : test_csv :['Feb 7, 2024 1:55:04 PM 13 Credit']
+2024-02-07 13:55:08,079 :INFO : test_csv :['Feb', '7,', '2024', '1:55:04', 'PM', '13', 'Credit']
+2024-02-07 13:55:08,079 :INFO : test_csv :['Feb 7, 2024 1:55:06 PM 13 Debit']
+2024-02-07 13:55:08,079 :INFO : test_csv :['Feb', '7,', '2024', '1:55:06', 'PM', '13', 'Debit']
+2024-02-07 14:42:16,833 :INFO : test_withdrawing :Transaction successful
+2024-02-07 14:42:18,448 :INFO : test_transactions :there are 2 transactions
+2024-02-07 14:42:18,495 :INFO : test_csv :['Feb 7, 2024 2:42:15 PM 13 Credit']
+2024-02-07 14:42:18,495 :INFO : test_csv :['Feb', '7,', '2024', '2:42:15', 'PM', '13', 'Credit']
+2024-02-07 14:43:11,616 :INFO : test_withdrawing :Transaction successful
+2024-02-07 14:43:13,239 :INFO : test_transactions :there are 2 transactions
+2024-02-07 14:43:13,297 :INFO : test_csv :['Feb 7, 2024 2:43:10 PM 13 Credit']
+2024-02-07 14:43:13,297 :INFO : test_csv :['Feb', '7,', '2024', '2:43:10', 'PM', '13', 'Credit']
+2024-02-07 14:43:13,298 :INFO : test_csv :['Feb 7, 2024 2:43:11 PM 13 Debit']
+2024-02-07 14:43:13,298 :INFO : test_csv :['Feb', '7,', '2024', '2:43:11', 'PM', '13', 'Debit']
+2024-02-07 14:45:22,194 :INFO : test_withdrawing :Transaction successful
+2024-02-07 14:45:23,847 :INFO : test_transactions :there are 2 transactions
+2024-02-07 14:45:23,875 :INFO : test_csv :['Feb 7, 2024 2:45:20 PM 13 Credit']
+2024-02-07 14:45:23,875 :INFO : test_csv :['Feb', '7,', '2024', '2:45:20', 'PM', '13', 'Credit']
+2024-02-07 14:45:23,875 :INFO : test_csv :['Feb 7, 2024 2:45:22 PM 13 Debit']
+2024-02-07 14:45:23,875 :INFO : test_csv :['Feb', '7,', '2024', '2:45:22', 'PM', '13', 'Debit']
+2024-02-07 14:46:48,113 :INFO : test_withdrawing :Transaction successful
+2024-02-07 14:46:49,736 :INFO : test_transactions :there are 2 transactions
+2024-02-07 14:46:49,776 :INFO : test_csv :['Feb 7, 2024 2:46:46 PM 13 Credit']
+2024-02-07 14:46:49,776 :INFO : test_csv :['Feb', '7,', '2024', '2:46:46', 'PM', '13', 'Credit']
+2024-02-07 14:46:49,776 :INFO : test_csv :['Feb 7, 2024 2:46:48 PM 13 Debit']
+2024-02-07 14:46:49,776 :INFO : test_csv :['Feb', '7,', '2024', '2:46:48', 'PM', '13', 'Debit']
+2024-02-07 14:49:55,438 :INFO : test_withdrawing :Transaction successful
+2024-02-07 14:49:57,116 :INFO : test_transactions :there are 2 transactions
+2024-02-07 14:49:57,169 :INFO : test_csv :['Feb 7, 2024 2:49:53 PM 13 Credit']
+2024-02-07 14:49:57,169 :INFO : test_csv :['Feb', '7,', '2024', '2:49:53', 'PM', '13', 'Credit']
+2024-02-07 14:49:57,169 :INFO : test_csv :['Feb 7, 2024 2:49:55 PM 13 Debit']
+2024-02-07 14:49:57,169 :INFO : test_csv :['Feb', '7,', '2024', '2:49:55', 'PM', '13', 'Debit']
+2024-02-07 16:03:31,530 :INFO : test_withdrawing :Transaction successful
+2024-02-07 16:03:33,207 :INFO : test_transactions :there are 2 transactions
+2024-02-07 16:03:33,289 :INFO : test_csv :['Feb 7, 2024 4:03:29 PM 13 Credit']
+2024-02-07 16:03:33,292 :INFO : test_csv :['Feb', '7,', '2024', '4:03:29', 'PM', '13', 'Credit']
+2024-02-07 16:04:23,146 :INFO : test_withdrawing :Transaction successful
+2024-02-07 16:04:25,299 :INFO : test_transactions :there are 2 transactions
+2024-02-07 16:04:25,345 :INFO : test_csv :['Feb 7, 2024 4:04:21 PM 13 Credit']
+2024-02-07 16:04:25,345 :INFO : test_csv :['Feb', '7,', '2024', '4:04:21', 'PM', '13', 'Credit']
+2024-02-07 16:04:25,345 :INFO : test_csv :['Feb 7, 2024 4:04:23 PM 13 Debit']
+2024-02-07 16:04:25,345 :INFO : test_csv :['Feb', '7,', '2024', '4:04:23', 'PM', '13', 'Debit']
+2024-02-07 17:11:21,163 :INFO : test_withdrawing :Transaction successful
+2024-02-07 17:11:22,844 :INFO : test_transactions :there are 2 transactions
+2024-02-07 17:11:22,905 :INFO : test_csv :['Feb', '7,', '2024', '5:11:19', 'PM', '13', 'Credit']
+2024-02-07 17:11:22,905 :INFO : test_csv :['Feb', '7,', '2024', '5:11:21', 'PM', '13', 'Debit']
